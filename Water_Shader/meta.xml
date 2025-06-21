@@ -1,0 +1,9 @@
+<meta>
+    <info author="Blue Eagle" version="1.2" type="script" name="Water Shader"/>
+    <min_mta_version client="1.6.0-9.22470" />
+    <script src="water.lua" type="client" />
+    <file src="fx/water.fx" />
+    <file src="fx/mta-helper.fx" />
+    <file src="images/water.jpg" />
+    <file src="images/water_normal.png" />
+</meta>
