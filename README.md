@@ -5,6 +5,8 @@ Features realistic planar reflections, animated waves, per-pixel depth and refra
 
 Developed by Blue Eagle.
 
+![image](https://github.com/user-attachments/assets/2ad0cdd2-8f6b-4e33-8eaa-79bc0fdb95a4)
+
 ---
 
 ## Features
