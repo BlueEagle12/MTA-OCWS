@@ -44,7 +44,10 @@ Most shader effects are controlled through exposed parameters (settable via Lua)
 
 *Parameters can be adjusted at runtime using dxSetShaderValue and related Lua functions.*
 
+## Credits
 
+* Some code sniplets orginally from Ren712 to sample plannar depth.
+  
 ## Links
 
 * [Discord](https://discord.gg/q8ZTfGqRXj)
